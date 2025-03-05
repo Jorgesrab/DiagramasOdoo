@@ -14,7 +14,7 @@ Ambos modelos se encuentran disponibles en formatos editables y en imágenes par
 ### Modelo de Clases
 
 - **`Modelo de clases.graphml`**  
-  Archivo en formato GraphML, ideal para editar y mantener actualizado el diagrama de clases.
+  Archivo en formato GraphML, para verlo desde la pagina con la que se ha creado para una mayor calidad ya que utiliza vectores.
 
 - **`Modelo de clases.png`**  
   Imagen del modelo de clases para una rápida visualización.
@@ -25,11 +25,11 @@ El modelo entidad-relación se ha dividido en secciones para facilitar su lectur
 
 - **Secciones Parciales:**
   - `Modelo entidad relacion Clientes.png`  
-    Diagrama que muestra la estructura de la entidad **Clientes**.
+    Diagrama que muestra la estructura de la rama **Clientes**.
   - `Modelo entidad relacion Facturación.png`  
-    Diagrama que muestra la estructura de la entidad **Facturación**.
+    Diagrama que muestra la estructura de la rama **Facturación**.
   - `Modelo entidad relacion Pedidos.png`  
-    Diagrama que muestra la estructura de la entidad **Pedidos**.
+    Diagrama que muestra la estructura de la rama **Pedidos**.
 
 - **Modelo Completo:**
   - `Modelo entidad relacion final.graphml`  
@@ -41,7 +41,7 @@ El modelo entidad-relación se ha dividido en secciones para facilitar su lectur
 
 ## Visualización y Edición
 
-- Para editar los archivos **.graphml**, se recomienda utilizar herramientas como [yEd](https://www.yworks.com/products/yed) o [diagrams.net](https://app.diagrams.net/).
+- Para editar/ver los archivos **.graphml**, se recomienda utilizar la herramienta [yEd](https://www.yworks.com/products/yed) con la que se ha diseñado el diagrama.
 - Las imágenes en **.png** están listas para ser visualizadas sin necesidad de herramientas adicionales.
 
 ---
