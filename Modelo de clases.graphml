@@ -46,7 +46,7 @@
 		<node id="n0">
 			<data key="d0">0</data>
 			<data key="d5">
-				<y:RectD X="-495.7638999999999" Y="867.7553999999998" Width="194" Height="214"/>
+				<y:RectD X="-495.7638999999999" Y="867.7553999999998" Width="194" Height="182"/>
 			</data>
 			<data key="d7">
 				<uml:UMLNodeStyle fill="{y:GraphMLReference 1}" highlightFill="{y:GraphMLReference 2}">
@@ -54,8 +54,6 @@
 						<uml:UMLClassModel stereotype="" constraint="" className="administracion" attributesOpen="true" operationsOpen="true">
 							<uml:UMLClassModel.attributes>
 								<x:Array>
-									<sys:String><![CDATA[descripcion: text]]></sys:String>
-									<sys:String><![CDATA[fecha_operacion: datetime]]></sys:String>
 									<sys:String><![CDATA[ID_factura: int]]></sys:String>
 									<sys:String><![CDATA[ID_pedido: int]]></sys:String>
 									<sys:String><![CDATA[ID_cliente: int]]></sys:String>
